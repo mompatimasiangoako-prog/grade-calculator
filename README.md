@@ -1,3 +1,7 @@
 # grade-calculator
 
-Add README
+Inputs grades and ouputs the average
+
+## Technologies used 
+-python 3
+
